@@ -1,0 +1,1562 @@
+[
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 1.9579
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 1.9601
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 1.9627
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 3.17925
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 3.18135
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 3.1841
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 6.49505
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 6.49725
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 6.4999
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 8.0206
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 8.02285
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 8.02555
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 12.3729
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 12.37505
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 12.3777
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 13.81115
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 13.8134
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 13.8161
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 14.70755
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 14.7098
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 14.71245
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 14.7309
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 14.73315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 14.7358
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 15.9713
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 15.97355
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 15.9763
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 17.92855
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 17.93075
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 17.93345
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 20.0825
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 20.08465
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 20.08735
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 22.7831
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 22.78535
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 22.788
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 23.34975
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 23.35195
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 23.3546
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 26.49045
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 26.49265
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 26.4953
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 29.26825
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 29.2705
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 29.2731
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 33.5
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 33.5022
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 33.50495
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 33.5238
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 33.5259
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 33.5286
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 38.24275
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 38.24505
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 38.2477
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 40.5295
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 40.5317
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 40.5344
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 41.15235
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 41.15455
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 41.1572
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 41.78265
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 41.78485
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 41.7875
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 51.6736
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 51.67585
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 51.67855
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 60.96265
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 60.9648
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 60.9674
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 67.984
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 67.98615
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 67.9889
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 75.69955
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 75.7018
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 75.7044
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 78.53755
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 78.53985
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 78.5425
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 86.6336
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 86.6357
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 86.63845
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 88.5158
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 88.5181
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 88.5208
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 90.95455
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 90.95675
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 90.9594
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 95.72565
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 95.7278
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 95.7304
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 98.33535
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 98.3375
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 98.34025
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 101.04665
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 101.04885
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 101.05155
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 105.15565
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 105.1578
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 105.1605
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 106.41875
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 106.421
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 106.4236
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 110.9174
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 110.91965
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 110.92235
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 111.8046
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 111.80675
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 111.80945
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 112.23725
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 112.23935
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 112.2421
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 114.82025
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 114.82245
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 114.8252
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 119.7992
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 119.80135
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 119.804
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 121.6816
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 121.68385
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 121.68665
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 125.5709
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 125.57315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 125.57575
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 126.22345
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 126.2257
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 126.2285
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 128.83575
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 128.83785
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 128.84055
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 141.21025
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 141.21245
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 141.21525
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 142.57365
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 142.57595
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 142.57865
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 152.08255
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 152.08475
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 152.08745
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 155.1416
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 155.14385
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 155.14655
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 160.57155
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 160.57375
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 160.57645
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 162.2149
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 162.2171
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 162.21985
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 167.56115
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 167.56335
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 167.56605
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 170.578
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 170.5803
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 170.583
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 176.34685
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 176.3491
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 176.3518
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 181.29045
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 181.2927
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 181.2953
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 188.24785
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 188.2501
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 188.2528
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 191.5204
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 191.52255
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 191.52525
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 193.91545
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 193.91765
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 193.92035
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 198.68425
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 198.6865
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 198.6892
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 199.2563
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 199.25855
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 199.2612
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 200.0478
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 200.04995
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 200.0526
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 201.3431
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 201.3453
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 201.348
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 201.5047
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 201.50685
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 201.5096
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 208.3691
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 208.3713
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 208.3741
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 213.3371
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 213.3393
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 213.34205
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 214.00315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 214.0054
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 214.0081
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 216.64455
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 216.64675
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 216.64945
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 218.9028
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 218.90495
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 218.9077
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 219.7887
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 219.7908
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 219.7935
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 220.7595
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 220.7617
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 220.76435
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 222.65825
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 222.6605
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 222.6631
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 223.64565
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 223.64785
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 223.65055
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 226.7372
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 226.7394
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 226.7421
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 233.96145
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 233.96365
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 233.9663
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 236.18155
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 236.1838
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 236.1865
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 238.64745
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 238.6496
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 238.65225
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 240.90535
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 240.9076
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 240.9103
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 243.25785
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 243.26005
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 243.2628
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 245.36695
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 245.3691
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 245.3717
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 246.9587
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 246.96085
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 246.96355
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 252.01965
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 252.02185
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 252.0246
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 254.5876
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 254.58985
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 254.5926
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 256.9617
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 256.96375
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 256.96645
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 257.6001
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 257.60235
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 257.6051
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 260.3474
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 260.34955
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 260.3523
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 262.69035
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 262.69265
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 262.6954
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 269.4343
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 269.4365
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 269.4392
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 271.9017
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 271.90395
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 271.9066
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 276.5761
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 276.5783
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 276.58105
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 277.20815
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 277.2103
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 277.213
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 279.2775
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 279.2797
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 279.2824
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 282.60805
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 282.6103
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 282.61295
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 282.74435
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 282.74655
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 282.74925
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 284.9736
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 284.9758
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 284.97845
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 285.7704
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 285.7726
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 285.77525
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 285.94745
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 285.94965
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 285.9524
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 286.2933
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 286.29555
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 286.2982
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 289.9557
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 289.95795
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 289.96065
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 291.28505
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 291.2872
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 291.2899
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 292.9664
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 292.9686
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 292.9713
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 295.83015
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 295.8322
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 295.8349
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 297.0416
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 297.0438
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 297.04645
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 300.2007
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 300.20295
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 300.20575
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 301.84315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 301.84535
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 301.84805
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 304.90315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 304.90535
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 304.9081
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 311.94825
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 311.9504
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 311.95315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 314.97245
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 314.97465
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 314.9774
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 316.45635
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 316.45845
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 316.4611
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 317.08385
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 317.08605
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 317.08875
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 317.1034
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 317.10565
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 317.1083
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 321.4585
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 321.4607
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 321.46355
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 322.06175
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 322.0639
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 322.0666
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 322.69065
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 322.6929
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 322.69555
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 324.1156
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 324.1178
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 324.1205
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 328.6055
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 328.60775
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 328.61045
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 331.8909
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 331.89315
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 331.8959
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 333.4736
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 333.4758
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 333.4785
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 335.6585
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 335.66075
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 335.6635
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 336.948
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 336.9503
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 336.95305
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 339.2203
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 339.22255
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 339.22525
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 341.4639
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 341.4661
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 341.4688
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 342.6826
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 342.68475
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 342.6876
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 344.12885
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 344.131
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 344.13375
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 346.71175
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 346.7139
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 346.7166
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 352.9755
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 352.97775
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 352.9805
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 359.34645
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 359.3487
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 359.35145
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 360.299
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 360.3013
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 360.30405
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 362.48025
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 362.48255
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 362.48525
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 366.9604
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 366.9626
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 366.96535
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 368.8061
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 368.8083
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 368.811
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 371.42525
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 371.4275
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 371.43025
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 373.94275
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 373.945
+  },
+  {
+    "neuronId": "channel_01",
+    "spikeTime": 373.9477
+  }
+]

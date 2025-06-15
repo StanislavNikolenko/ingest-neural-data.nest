@@ -7,7 +7,7 @@ export class AppController {
   constructor(private readonly appService: AppService) {}
 
   @MessagePattern({ cmd: 'ingest' })
-  getHello(): string {
-    return this.appService.getHello();
+  ingest(): Promise<string> {
+    return this.appService.ingest();
   }
 }
