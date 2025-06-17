@@ -61,6 +61,7 @@ data
 
 # Generated output
 output
+processed_neural_data
 
 # Envs
-config/.env
+config

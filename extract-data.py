@@ -5,6 +5,12 @@ import matplotlib.pyplot as plt
 import json
 import os
 import glob
+from dotenv import load_dotenv
+
+# Load environment variables from config/.env
+load_dotenv(os.path.join('config', '.env'))
+
+NEURAL_DATA_DIR = os.getenv('PROCESSED_NEURAL_DATA_DIR');
 
 # Parse the XML configuration file to get the number of channels and sampling rate
 def parse_xml_config(xml_file):
@@ -91,10 +97,10 @@ def process_file_pair(xml_file, dat_file):
     
     # Generate output filename based on input filename
     base_name = os.path.splitext(os.path.basename(dat_file))[0]
-    output_file = f"output/{base_name}_spikes.json"
+    output_file = f"{NEURAL_DATA_DIR}/{base_name}_spikes.json"
     
     # Ensure output directory exists
-    os.makedirs("output", exist_ok=True)
+    os.makedirs(NEURAL_DATA_DIR, exist_ok=True)
     
     export_spike_times(spike_indices, config["sampling_rate"], output_file)
     return output_file
