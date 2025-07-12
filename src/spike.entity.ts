@@ -1,12 +1,12 @@
 import { Entity, PrimaryGeneratedColumn, Column, CreateDateColumn } from 'typeorm';
 
-@Entity('neural_spikes')
-export class NeuralSpike {
+@Entity('spikes')
+export class Spike {
   @PrimaryGeneratedColumn()
   id: number;
 
-  @Column()
-  neuronId: string;
+  @Column({ nullable: true })
+  channel: string;
 
   @Column('float')
   spikeTime: number;

@@ -5,7 +5,7 @@ import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import * as fs from 'fs';
 import * as path from 'path';
-import { NeuralSpike } from './neural-spike.entity';
+import { Spike } from './spike.entity';
 
 const execAsync = promisify(exec);
 
@@ -16,9 +16,17 @@ const PROCESSED_NEURAL_DATA_DIR = process.env.PROCESSED_NEURAL_DATA_DIR || 'proc
 @Injectable()
 export class AppService {
   constructor(
-    @InjectRepository(NeuralSpike)
-    private neuralSpikeRepository: Repository<NeuralSpike>,
+    @InjectRepository(Spike)
+    private neuralSpikeRepository: Repository<Spike>,
   ) {}
+
+  async getSpike(spikeId: number): Promise<Spike> {
+    const result = await this.neuralSpikeRepository.findOne({ where: { id: spikeId } });
+    if (!result) {
+      throw new Error('Neural spike not found');
+    }
+    return result;
+  }
 
   async ingest(): Promise<string> {
     const result = await this.runPythonScript();
@@ -71,18 +79,18 @@ export class AppService {
             continue;
           }
 
-          const neuralSpikes = spikeData.map(spike => {
-            const neuralSpike = new NeuralSpike();
-            neuralSpike.neuronId = spike.neuronId;
-            neuralSpike.spikeTime = spike.spikeTime;
-            neuralSpike.sourceFile = jsonFile;
-            return neuralSpike;
+          const spikes = spikeData.map(spike => {
+            const spikeEntity = new Spike();
+            spikeEntity.channel = spike.channel;
+            spikeEntity.spikeTime = spike.spikeTime;
+            spikeEntity.sourceFile = jsonFile;
+            return spikeEntity;
           });
 
-          await this.neuralSpikeRepository.save(neuralSpikes);
+          await this.neuralSpikeRepository.save(spikes);
           
-          totalSpikesIngested += neuralSpikes.length;
-          console.log(`Ingested ${neuralSpikes.length} spikes from ${jsonFile}`);
+          totalSpikesIngested += spikes.length;
+          console.log(`Ingested ${spikes.length} spikes from ${jsonFile}`);
           
         } catch (error) {
           console.error(`Error processing file ${jsonFile}:`, error);
